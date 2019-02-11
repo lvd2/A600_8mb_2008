@@ -1,7 +1,8 @@
 # A600_8mb_2008
-My old A600 memory expansion project, as of 2008.
+My old A600 memory expansion project, as of 2008, released under GPL v3 license.
 
-Changes made for release:
+
+Changes made for the release:
 
  - the whole PCB project was converted to pcad2006 format.
 
