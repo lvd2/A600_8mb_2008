@@ -36,3 +36,7 @@ There are also quartus design project files, along with verilog sources.
 Quartus 7.2 should be enough to compile them, which also happens to work nicely under wine.
 You can use native linux quartus 11.1+ to program the CPLD via usb-blaster. Don't forget to add the blaster to /etc/udev/rules.d or use programmer under superuser.
 
+
+# Some (old) "user manual"
+http://lvd.nedopc.com/Projects/a600_8mb_2/index.html
+
